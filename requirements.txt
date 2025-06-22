@@ -1,0 +1,8 @@
+llama-index>=0.10.40
+llama-index-vector-stores-qdrant>=0.1.4
+llama-index-embeddings-huggingface>=0.1.4
+sentence-transformers>=2.4.0
+rank_bm25>=0.2.2
+qdrant-client>=1.8.2
+python-dotenv>=1.0.0
+rich>=13.7.0
